@@ -30,6 +30,7 @@ categories:
     label: area/docs
   - title: 🔒 Security
     label: security  
+no-duplicate-categories: true 
 change-template: '- $TITLE @$AUTHOR (#$NUMBER)'
 template: |
   ## What's New
